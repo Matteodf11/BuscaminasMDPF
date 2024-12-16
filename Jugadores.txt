@@ -1,0 +1,10 @@
+MatteoPrFc,./src/main/resources/Imagenes/defecto.png
+MatteoPrPers,./src/main/resources/Imagenes/defecto.png
+MatteoPrDif,./src/main/resources/Imagenes/defecto.png
+MatteoPrFc2,./src/main/resources/Imagenes/defecto.png
+MatteoPrMd2,./src/main/resources/Imagenes/defecto.png
+MatteoPrDif2,./src/main/resources/Imagenes/defecto.png
+MatteoPrPers2,./src/main/resources/Imagenes/itadori.png
+Hola Profe :),./src/main/resources/Imagenes/itadori.png
+Hola Profe Facil :),./src/main/resources/Imagenes/defecto.png
+Sams,./src/main/resources/Imagenes/defecto.png
